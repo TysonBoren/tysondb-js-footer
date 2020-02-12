@@ -4,7 +4,7 @@ var moment = require('moment');
 // import moment from 'moment' this is the same thing as the above line of code, but the above line is older version of doing this. 
 
 /**
- * Returns a div element with a footer and updating year
+ * Returns a string element with a footer and updating year
  * @param {string} name
  * @return {string}
  */
