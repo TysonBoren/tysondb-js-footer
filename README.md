@@ -4,7 +4,7 @@
 > This should be use in the following manner
 Install with the command:
 ```
-$ npm install --save devcamp-js-footer
+$ npm install --save tyson-js-footer
 ```
 Add to your Javascript Project with the following code:
 
