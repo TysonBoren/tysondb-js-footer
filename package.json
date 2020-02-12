@@ -1,0 +1,25 @@
+{
+  "name": "tyson-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TysonBoren/tysondb-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Tyson Boren <tyson.d.boren@gmail.com> (https://www.IGotNothing.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TysonBoren/tysondb-js-footer/issues"
+  },
+  "homepage": "https://github.com/TysonBoren/tysondb-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
